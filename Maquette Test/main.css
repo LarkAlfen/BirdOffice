@@ -13,7 +13,7 @@
     font-weight: bold;
 }
 body{
-    background-color: #ffff;
+    background-color: #ffffff;
     padding: 0;
     margin: 0;
 }
@@ -22,7 +22,7 @@ a{
 }
 header{
     width: 100%;
-    background-color: #ffff;
+    background-color: #ffffff;
     margin: 0;
     height: 2.5em;
 
@@ -41,7 +41,7 @@ header .logo{
 .welcome h1{
     position: absolute;
     z-index: 6;
-    color: #ffff;
+    color: #ffffff;
     font-family: DinnBold;
     margin: 7em 4em;
     cursor: default;
