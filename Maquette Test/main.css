@@ -10,7 +10,7 @@
 @font-face {
     font-family: DinnRegular;
     src: url(Din/DINNextLTPro-Regular.otf);
-    font-weight: bold;
+    font-weight: regular;
 }
 body{
     background-color: #ffffff;
